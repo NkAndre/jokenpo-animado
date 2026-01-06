@@ -1,5 +1,6 @@
   ## JOKENPO COM ANIMAÇÕES !!   
 
+## LINK DO GAME:  https://nkandre.github.io/jokenpo-animado/
 
 
 ## SOBRE O PROJETO  
